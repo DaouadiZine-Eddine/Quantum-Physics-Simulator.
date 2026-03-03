@@ -21,8 +21,10 @@ For a particle of 50 000 kg (theoretically, we can all agree it's absurd) separa
 <img width="135" height="59" alt="image" src="https://github.com/user-attachments/assets/e5b09475-35a8-4374-88b8-3334ac3017d7" />
 
 
-
 Spherically :
+
+
+
 <img width="611" height="615" alt="image" src="https://github.com/user-attachments/assets/0dd04732-6723-4cb9-aa8c-6585b651a324" />
 
 
